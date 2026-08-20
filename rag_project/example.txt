@@ -1,1 +1,0 @@
-This is a sample text document about Langchain. It's used for testing the TextLoader functionality. Langchain makes it easy to build LLM-powered applications.

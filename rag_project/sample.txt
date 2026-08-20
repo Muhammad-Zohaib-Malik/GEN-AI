@@ -1,1 +1,9 @@
-This is a sample document for TextLoader testing.
+# Node.js
+
+Node.js is a JavaScript runtime environment that allows developers to run JavaScript outside the browser. It is built on Chrome's V8 JavaScript engine and is widely used for developing fast, scalable, and efficient backend applications.
+
+Node.js uses an event-driven, non-blocking I/O architecture, which makes it well suited for applications that handle many concurrent requests, such as REST APIs, real-time applications, chat applications, and web services.
+
+With Node.js, developers can build backend servers using frameworks such as Express.js and NestJS. It also provides access to a large ecosystem of packages through npm, making it easy to integrate databases, authentication systems, APIs, file storage, payment services, and other third-party services.
+
+Node.js is commonly used for building RESTful APIs, microservices, real-time applications, web servers, command-line tools, and backend services. Its ability to use JavaScript across both frontend and backend development also makes it a popular choice for full-stack web development.
